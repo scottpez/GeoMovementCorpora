@@ -22,7 +22,7 @@ year = {2020}
 
 And our manuscript about creating the corpora.
 
-Pezanowski, S. and Mitra, P. (2020b) Recognition of implicit geographic movement in text. In Proceedings of The 12th Language Resources and Evaluation Conference, 2047–2056. Marseille, France: European Language Resources Association. URL: https://www.aclweb.org/anthology/2020.lrec-1.251
+Pezanowski, S. and Mitra, P. (2020b) Recognition of implicit geographic movement in text. In *Proceedings of The 12th Language Resources and Evaluation Conference*, 2047–2056. Marseille, France: European Language Resources Association. URL: https://www.aclweb.org/anthology/2020.lrec-1.251
 
 ```
 @InProceedings{pezanowski2020geomovement,
