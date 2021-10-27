@@ -5,6 +5,8 @@ The **gold** corpus contains the type of thing moving and 5 votes by human parti
 
 The **silver** corpus was hand checked by the author for whether it describes movement or not.
 
+\* In each file, the label column contains a **0** if it does not describe geographic movement and a **1** if it does describe geographic movement.
+
 If you use either corpus in your research, please cite the corpora themselves.
 
 Pezanowski, S. and Mitra, P. (2020a) GeoMovementCorpora. URL: https://github.com/scottpez/GeoMovementCorpora
