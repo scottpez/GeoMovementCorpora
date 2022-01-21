@@ -39,3 +39,4 @@ Pezanowski, S. and Mitra, P. (2020b) Recognition of implicit geographic movement
 	url       = {https://www.aclweb.org/anthology/2020.lrec-1.251}
 }
 ```
+[![DOI](https://zenodo.org/badge/244139115.svg)](https://zenodo.org/badge/latestdoi/244139115)
