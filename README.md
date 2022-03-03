@@ -9,7 +9,7 @@ The **silver** corpus was hand checked by the author for whether it describes mo
 
 If you use either corpus in your research, please cite the corpora themselves.
 
-Pezanowski, S. and Mitra, P. (2020a) GeoMovementCorpora. URL: https://github.com/scottpez/GeoMovementCorpora
+Pezanowski, S., & Mitra, P. (2020). GeoMovement Corpora. https://doi.org/10.5281/zenodo.5888621
 
 ```
 @misc{pez2020movementlr,
