@@ -7,7 +7,7 @@ The **silver** corpus was hand checked by the author for whether it describes mo
 
 \* In each file, the label column contains a **0** if it does not describe geographic movement and a **1** if it does describe geographic movement.
 
-If you use either corpus in your research, please cite the corpora themselves.
+If you use either corpus in your research, please cite the corpora themselves:
 
 Pezanowski, S., & Mitra, P. (2020). GeoMovement Corpora. https://doi.org/10.5281/zenodo.5888621
 
@@ -24,7 +24,7 @@ doi = {10.5281/zenodo.5888621}
 ```
 [![DOI](https://zenodo.org/badge/244139115.svg)](https://zenodo.org/badge/latestdoi/244139115)
 
-And our manuscript about creating the corpora.
+and our manuscript about creating the corpora.
 
 Pezanowski, S. and Mitra, P. (2020b) Recognition of implicit geographic movement in text. In *Proceedings of The 12th Language Resources and Evaluation Conference*, 2047–2056. Marseille, France: European Language Resources Association. URL: https://www.aclweb.org/anthology/2020.lrec-1.251
 
