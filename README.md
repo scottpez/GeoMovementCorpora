@@ -18,7 +18,8 @@ edition = {0.1},
 publisher = {Scott Pezanowski and Prasenjit Mitra},
 title = {{GeoMovement Corpora}},
 url = {https://github.com/scottpez/GeoMovementCorpora},
-year = {2020}
+year = {2020},
+doi = {10.5281/zenodo.5888621}
 }
 ```
 
