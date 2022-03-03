@@ -22,6 +22,7 @@ year = {2020},
 doi = {10.5281/zenodo.5888621}
 }
 ```
+[![DOI](https://zenodo.org/badge/244139115.svg)](https://zenodo.org/badge/latestdoi/244139115)
 
 And our manuscript about creating the corpora.
 
@@ -40,4 +41,4 @@ Pezanowski, S. and Mitra, P. (2020b) Recognition of implicit geographic movement
 	url       = {https://www.aclweb.org/anthology/2020.lrec-1.251}
 }
 ```
-[![DOI](https://zenodo.org/badge/244139115.svg)](https://zenodo.org/badge/latestdoi/244139115)
+
